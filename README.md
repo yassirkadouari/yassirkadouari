@@ -42,10 +42,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasiinDV&show_icons=true&theme=radium&hide_border=true" alt="Yassir's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yassirkadouari&show_icons=true&theme=radium&hide_border=true" alt="Yassir's GitHub stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasiinDV&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirkadouari&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
