@@ -20,7 +20,7 @@
 - 🔭 I’m currently exploring advanced concepts in **Cybersecurity**, **Reverse Engineering**, and **Systems Architecture**.
 - 🌱 Always learning and building things with **Next.js**, **React**, and bare-metal server deployments (TrueNAS, Docker, K3s).
 - 💬 Ask me about **network infrastructure**, **web dev**, or **system administration**.
-- 📫 Reach out to me via email: **yassine.mohamedi.cs@gmail.com**
+- 📫 Reach out to me via email: **kadouariyassie@gmail.com**
 
 ---
 
@@ -42,10 +42,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassirkadouari&show_icons=true&theme=radium&hide_border=true" alt="Yassir's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yassirkadouari&show_icons=true&theme=radium&hide_border=true" alt="Yassir's GitHub stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirkadouari&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yassirkadouari&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
